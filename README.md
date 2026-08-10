@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Huiyu
 
-<!--
-**liuxhy/liuxhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer working on backend and distributed systems, with a background in
+large-scale data infrastructure and applied ML.
 
-Here are some ideas to get you started:
+Recently I built an end-to-end **asynchronous fraud-detection pipeline** for a credit-card
+scanning mobile SDK — decoupling server-side ML inference from the synchronous scan path
+cut scan-to-response latency by over 75%. Before that: containerized microservices for
+forecast-driven alerting, and parallel data pipelines processing hundreds of gigabytes
+on GCP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I came to software engineering from research. My Ph.D. was in climate science, where I
+spent six years writing distributed Python pipelines over 100+ TB of satellite and model
+data — which is where I learned that most interesting problems are systems problems.
+
+**Currently:** M.S. in Computer Science at Georgia Tech (Dec 2026), looking for
+software engineering roles.
+
+### What I work with
+
+`Python` `C++` `Java/Kotlin` `TypeScript` · gRPC · FastAPI · Node.js · Android SDK ·
+Docker · AWS · GCP · PyTorch · Dask
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/xinhuiyu-huiyu-liu) ·
+[Website](https://liuxhy.github.io) ·
+[Google Scholar](https://scholar.google.com/citations?user=0fies7oAAAAJ&hl=en)
