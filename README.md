@@ -20,15 +20,15 @@ Eight agents composed into a sequential pipeline with hierarchical delegation, e
 
 ## What I work with
 
-**Languages** `Python` `C++` `Java/Kotlin` `TypeScript` `SQL`
+**Languages**: `Python` `C++` `Java/Kotlin` `TypeScript` `SQL`
 
-**Systems** gRPC · Protobuf · concurrency · Dask · Spark/Sedona · Docker · Linux
+**Systems**: gRPC · Protobuf · concurrency · Dask · Spark/Sedona · Docker · Linux
 
-**Web & mobile** FastAPI · Node.js · React · Android SDK · REST
+**Web & mobile**: FastAPI · Node.js · React · Android SDK · REST
 
-**Cloud** AWS (EC2, S3, Lambda, RDS, Glue, CloudWatch) · GCP (Vertex AI, Cloud Run, GCS) · GitHub Actions
+**Cloud**: AWS (EC2, S3, Lambda, RDS, Glue, CloudWatch) · GCP (Vertex AI, Cloud Run, GCS) · GitHub Actions
 
-**Data & ML** PostgreSQL/PostGIS · TimescaleDB · Xarray · Zarr · Parquet · PyTorch · scikit-learn
+**Data & ML**: PostgreSQL/PostGIS · TimescaleDB · Xarray · Zarr · Parquet · PyTorch · scikit-learn
 
 ### Elsewhere
 
