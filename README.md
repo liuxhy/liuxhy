@@ -12,10 +12,10 @@ I came to software engineering from research. My Ph.D. was in climate science, w
 
 ## Things I've built for fun
 
-**[Synchronized Distributed File System]((https://liuxhy.github.io/portfolio/1-distributed-file-system/))** · `C++` `gRPC` `Protobuf` `inotify` `pthreads`
+**[Synchronized Distributed File System](https://liuxhy.github.io/portfolio/1-distributed-file-system/)** · `C++` `gRPC` `Protobuf` `inotify` `pthreads`
 An AFS-style DFS with whole-file client caching under single-writer semantics — CRC32 checksums paired with mtime comparison to skip redundant transfers, chunked streaming with gRPC deadlines for 100 MB+ files, and a persistent async callback stream that pushes updates instead of polling. Lock ownership is enforced on every write, with cleanup restoring server state after mid-write client crashes.
 
-**[Multi-Agent Travel Planner]((https://github.com/liuxhy/trip_planner_agent))** · `Python` `Google ADK` `Gemini 2.5` `Streamlit`
+**[Multi-Agent Travel Planner](https://github.com/liuxhy/trip_planner_agent)** · `Python` `Google ADK` `Gemini 2.5` `Streamlit`
 Eight agents composed into a sequential pipeline with hierarchical delegation, exposing flight, hotel, and activity agents as callable tools to a lead planner grounded on live weather and search APIs. A bounded critic-refiner loop validates itineraries against drive-time realism, transport consistency, and daily pacing before export.
 
 ## What I work with
